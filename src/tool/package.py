@@ -90,7 +90,7 @@ def get_output_filename(
     else:
         filename = metadata["name"]
     
-    filename = filename.replace(" ", "_").replace(":", "-")
+    filename = filename.replace(" - ", "_").replace(": ", "_").replace(" ", "_")
 
     suffix = {
         "data_pack": "data",
