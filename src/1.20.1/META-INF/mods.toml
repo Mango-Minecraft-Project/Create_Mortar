@@ -17,7 +17,7 @@ displayURL = "https://modrinth.com/project/eOYKttUR"
 [[dependencies.create_mortar]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.18.2,)"
+versionRange = "[1.18.2,1.20.1)"
 
 [[dependencies.create_mortar]]
 modId = "create"
