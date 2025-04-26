@@ -1,0 +1,4 @@
+{
+  "replace": false,
+  "values": [{ "id": "tfmg:molten_slag", "required": false }]
+}

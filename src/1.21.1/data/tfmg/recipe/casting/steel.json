@@ -1,0 +1,26 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfmg"
+    }
+  ],
+  "type": "tfmg:casting",
+  "ingredients": [
+    {
+      "fluidTag": "c:molten_steel",
+      "amount": 1
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "item": "tfmg:steel_ingot",
+      "count": 1
+    },
+    {
+      "item": "tfmg:steel_block",
+      "count": 1
+    }
+  ]
+}

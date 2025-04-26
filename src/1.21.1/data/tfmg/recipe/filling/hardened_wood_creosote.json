@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfmg"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "fluidTag": "c:creosote",
+      "nbt": {},
+      "amount": 200
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:hardened_planks"
+    }
+  ]
+}

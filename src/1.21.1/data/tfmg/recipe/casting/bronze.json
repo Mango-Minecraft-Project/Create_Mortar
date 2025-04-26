@@ -1,0 +1,29 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        { "type": "neoforge:mod_loaded", "modid": "tfmg" },
+        { "type": "neoforge:mod_loaded", "modid": "create_dd" }
+      ]
+    }
+  ],
+  "type": "tfmg:casting",
+  "ingredients": [
+    {
+      "fluidTag": "c:molten_bronze",
+      "amount": 1
+    }
+  ],
+  "processingTime": 300,
+  "results": [
+    {
+      "item": "create_dd:bronze_ingot",
+      "count": 1
+    },
+    {
+      "item": "create_dd:bronze_block",
+      "count": 1
+    }
+  ]
+}

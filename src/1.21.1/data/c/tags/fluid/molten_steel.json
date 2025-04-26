@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "tfmg:molten_steel", "required": false },
+    { "id": "createbigcannons:molten_steel", "required": false },
+    { "id": "createbigcannons:flowing_molten_steel", "required": false }
+  ]
+}

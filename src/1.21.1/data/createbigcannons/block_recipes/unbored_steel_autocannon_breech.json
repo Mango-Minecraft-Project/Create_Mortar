@@ -1,0 +1,16 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createbigcannons"
+    }
+  ],
+  "type": "createbigcannons:cannon_casting",
+  "cast_shape": "createbigcannons:autocannon_breech",
+  "fluid": {
+    "fluidTag": "c:molten_steel",
+    "amount": 1,
+    "nbt": {}
+  },
+  "result": "createbigcannons:unbored_steel_autocannon_breech"
+}

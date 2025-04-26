@@ -1,0 +1,42 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfmg"
+    }
+  ],
+  "type": "tfmg:advanced_distillation",
+  "ingredients": [
+    {
+      "fluidTag": "c:crude_oil",
+      "nbt": {},
+      "amount": 180
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tfmg:heavy_oil",
+      "amount": 40
+    },
+    {
+      "fluid": "tfmg:diesel",
+      "amount": 30
+    },
+    {
+      "fluid": "tfmg:kerosene",
+      "amount": 20
+    },
+    {
+      "fluid": "tfmg:naphtha",
+      "amount": 20
+    },
+    {
+      "fluid": "tfmg:gasoline",
+      "amount": 40
+    },
+    {
+      "fluid": "tfmg:lpg",
+      "amount": 30
+    }
+  ]
+}

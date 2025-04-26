@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfmg"
+    }
+  ],
+  "fluids": ["tfmg:naphtha"],
+  "fuel_ticks": 2400
+}

@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfmg"
+    }
+  ],
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfmg:nitrate_dust"
+    },
+    {
+      "item": "tfmg:nitrate_dust"
+    },
+    {
+      "item": "tfmg:nitrate_dust"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "tag": "c:dusts/sulfur"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gunpowder",
+      "count": 6
+    }
+  ]
+}
